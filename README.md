@@ -129,7 +129,7 @@ Pinned below: a mix of the dev tools I ship (`oh-boi-cli`, `win-rice-doombringer
 
 ---
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Doombringerz&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/Doombringerz)
+[![Trophies](https://doombringerz.com/og/trophy.svg)](https://github.com/Doombringerz)
 
 ---
 
