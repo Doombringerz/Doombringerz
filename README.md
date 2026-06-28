@@ -129,7 +129,7 @@ Pinned below: a mix of the dev tools I ship (`oh-boi-cli`, `win-rice-doombringer
 
 ---
 
-[![Trophies](https://doombringerz.com/og/trophy.svg)](https://github.com/Doombringerz)
+[![Trophies](https://doombringerz.com/og/trophy.svg?v=2)](https://github.com/Doombringerz)
 
 ---
 
