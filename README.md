@@ -14,7 +14,7 @@ Self-proclaimed Laziest YouTuber in the Gaming Universe. Low-energy most days. O
 [![Instagram](https://img.shields.io/badge/Instagram-@Doombringerz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/doombringerz)
 
 [![Twitch Status](https://img.shields.io/twitch/status/d00mbringerz?style=for-the-badge&label=stream&color=9146FF)](https://twitch.tv/d00mbringerz)
-[![Email](https://img.shields.io/badge/contact-management@doombringerz.com-6688ff?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:management@doombringerz.com)
+[![Email](https://img.shields.io/badge/contact-contact@doombringerz.com-6688ff?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@doombringerz.com)
 
 [![Patreon](https://img.shields.io/badge/Patreon-Doombringerz-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/Doombringerz)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-doombringerz-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/doombringerz)
