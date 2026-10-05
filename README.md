@@ -10,8 +10,8 @@ Self-proclaimed Laziest YouTuber in the Gaming Universe. Low-energy most days. O
 [![YouTube](https://img.shields.io/badge/YouTube-@Doombringerz-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Doombringerz)
 [![Twitch](https://img.shields.io/badge/Twitch-d00mbringerz-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/d00mbringerz)
 [![TikTok](https://img.shields.io/badge/TikTok-@Doombringerz-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@doombringerz)
-[![X](https://img.shields.io/badge/X-@Doombringerz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Doombringerz)
-[![Instagram](https://img.shields.io/badge/Instagram-@Doombringerz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/doombringerz)
+[![X](https://img.shields.io/badge/X-@D00mbringerz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/D00mbringerz)
+[![Instagram](https://img.shields.io/badge/Instagram-@d00mbringerz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/d00mbringerz)
 
 [![Twitch Status](https://img.shields.io/twitch/status/d00mbringerz?style=for-the-badge&label=stream&color=9146FF)](https://twitch.tv/d00mbringerz)
 [![Email](https://img.shields.io/badge/contact-contact@doombringerz.com-6688ff?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@doombringerz.com)
@@ -46,7 +46,7 @@ Self-proclaimed Laziest YouTuber in the Gaming Universe. Low-energy most days. O
 <img src="https://raw.githubusercontent.com/Doombringerz/hrprotocol-site/main/banner.png" width="100%" />
 </a>
 <br>
-<b>HR Protocol</b>, Rascal &amp; Halcyon, 38-module Discord stack
+<b>HR Protocol</b>, Rascal &amp; Halcyon, 37-module Discord stack
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ Self-proclaimed Laziest YouTuber in the Gaming Universe. Low-energy most days. O
 <img src="https://raw.githubusercontent.com/Doombringerz/relyo-site/main/banner.png" width="100%" />
 </a>
 <br>
-<b>Relyo</b>, community membership platform
+<b>Relyo</b>, Discord and Reddit bot directory
 </td>
 </tr>
 </table>
