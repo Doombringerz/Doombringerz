@@ -141,7 +141,7 @@ Jack of all trades, master of none. Some of it solid, some of it basics with AI 
 
 ---
 
-[![Trophies](https://www.doombringerz.com/og/trophy.svg?v=3)](https://github.com/Doombringerz)
+[![Trophies](https://www.doombringerz.com/og/trophy.svg?v=4)](https://github.com/Doombringerz)
 
 ---
 
