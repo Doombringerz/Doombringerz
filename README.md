@@ -79,6 +79,8 @@ Pinned below: a mix of the dev tools I ship (`oh-boi-cli`, `win-rice-doombringer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -120,6 +122,7 @@ Pinned below: a mix of the dev tools I ship (`oh-boi-cli`, `win-rice-doombringer
 **Payments**
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)
+![Mollie](https://img.shields.io/badge/Mollie-000000?style=flat)
 
 **AI / media**
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF9E0F?style=flat&logo=stablediffusion&logoColor=white)
@@ -127,9 +130,18 @@ Pinned below: a mix of the dev tools I ship (`oh-boi-cli`, `win-rice-doombringer
 ![Whisper](https://img.shields.io/badge/Whisper-4D4D4D?style=flat&logo=openai&logoColor=white)
 ![Pollinations](https://img.shields.io/badge/Pollinations-FF6B9D?style=flat&logoColor=white)
 
+## Skills
+
+Jack of all trades, master of none. Some of it solid, some of it basics with AI assisting.
+
+- **Tech**: IT, security, networking
+- **Art**: texturing, Photoshop, 3D modeling, video editing, prompt engineering
+- **Words and brand**: writing, story building, brand consistency
+- **People**: community management, social media management, project management, public speaking, leadership, networking (the people kind)
+
 ---
 
-[![Trophies](https://doombringerz.com/og/trophy.svg?v=2)](https://github.com/Doombringerz)
+[![Trophies](https://www.doombringerz.com/og/trophy.svg?v=3)](https://github.com/Doombringerz)
 
 ---
 
